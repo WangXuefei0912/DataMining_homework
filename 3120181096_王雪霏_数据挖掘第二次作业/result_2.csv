@@ -1,0 +1,13 @@
+,support,confidence,lift,cosine
+comments_disabled-->dislikes-->publish_time-->views-->likes,0.3097267332535593,0.9026403814675112,1.8052366779347064,0.7477499976638077
+comments_disabled-->dislikes-->publish_time-->ratings_disabled-->views-->likes,0.3097267332535593,0.9026403814675112,1.8052366779347064,0.7477499976638077
+comments_disabled-->dislikes-->publish_time-->video_error_or_removed-->views-->likes,0.3094581064250653,0.9025641025641026,1.8050841238533544,0.7473940827338729
+comments_disabled-->dislikes-->publish_time-->ratings_disabled-->video_error_or_removed-->views-->likes,0.3094581064250653,0.9025641025641026,1.8050841238533544,0.7473940827338729
+comment_count-->dislikes-->publish_time-->likes,0.3070648855893917,0.9008453933228256,1.801646789312644,0.7437892613050969
+comment_count-->dislikes-->publish_time-->ratings_disabled-->likes,0.3070648855893917,0.9008453933228256,1.801646789312644,0.7437892613050969
+comment_count-->comments_disabled-->dislikes-->publish_time-->likes,0.3070648855893917,0.9008453933228256,1.801646789312644,0.7437892613050969
+comment_count-->comments_disabled-->dislikes-->publish_time-->ratings_disabled-->likes,0.3070648855893917,0.9008453933228256,1.801646789312644,0.7437892613050969
+comment_count-->dislikes-->publish_time-->video_error_or_removed-->likes,0.30686952062321426,0.90078853046595,1.8015330663760771,0.7435291443283821
+comment_count-->dislikes-->publish_time-->ratings_disabled-->video_error_or_removed-->likes,0.30686952062321426,0.90078853046595,1.8015330663760771,0.7435291443283821
+comment_count-->comments_disabled-->dislikes-->publish_time-->video_error_or_removed-->likes,0.30686952062321426,0.90078853046595,1.8015330663760771,0.7435291443283821
+comment_count-->comments_disabled-->dislikes-->publish_time-->ratings_disabled-->video_error_or_removed-->likes,0.30686952062321426,0.90078853046595,1.8015330663760771,0.7435291443283821
